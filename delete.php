@@ -7,7 +7,7 @@ $username = "root";
 $password = "";
 $database = "dbharry";
 
-//Create a connection to the database.
+//Create a connection to the database. ddd
 $conn = mysqli_connect($servername, $username, $password, $database);
 //Die if connection was not successful.
 if (!$conn) {
